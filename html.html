@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Jornada Tecnológicas</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='css.css'>
+    <link rel="icon" type="image/png" href="img/logomini.png
+    " />
+</head>
+<body>
+    <header>
+        <img src="img/logotipo.png" alt="Logotipo Jornadas" class="logo" />
+        <h1>Jornadas Tecnológicas 2025</h1>
+        <p class="slogan">Conectando talento, tecnología e innovación</p>
+      </header>
+    
+      <main>
+        <section class="info">
+          <h2>¿Qué son las Jornadas Tecnológicas?</h2>
+          <p>
+            Las Jornadas Tecnológicas 2025 son un espacio de inspiración, aprendizaje y
+            networking donde estudiantes, profesionales y empresas se reúnen para compartir conocimientos, experiencias y oportunidades del mundo digital.
+          </p>
+        </section>
+    
+        <section class="imagenes">
+          <div class="imagen">
+            <img src="img/infografia.png" alt="Infografía de las jornadas" />
+            <p class="caption">Infografía resumen</p>
+          </div>
+          <div class="imagen">
+            <img src="img/nube_conceptos.png" alt="Nube de conceptos" />
+            <p class="caption">Conceptos clave tratados</p>
+          </div>
+        </section>
+    
+        <section class="cta">
+          <h2>¡No te pierdas la próxima edición!</h2>
+          <p>Explora nuevas tecnologías, conoce empresas punteras y descubre tu vocación profesional.</p>
+        </section>
+      </main>
+    
+      <footer>
+        <p>&copy; 2025 Jornadas Tecnológicas - IES Innovación</p>
+      </footer>
+
+      <div class="mascota" onclick="mostrarMensaje()">
+        <img src="img/logomini.png" alt="Glorp la mascota" />
+        <div class="bocadillo" id="bocadillo">¡Apruébame programación!! digo- GLORP</div>
+      </div>
+
+      <script>
+        function mostrarMensaje() {
+          const bocadillo = document.getElementById("bocadillo");
+          bocadillo.style.display = "block"; // Mostrar el mensaje
+          setTimeout(() => {
+            bocadillo.style.display = "none"; // Ocultar el mensaje después de 4 segundos
+          }, 3000);
+        }
+      </script>
+</body>
+</html>
