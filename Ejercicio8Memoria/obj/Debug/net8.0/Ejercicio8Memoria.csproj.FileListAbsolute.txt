@@ -1,0 +1,14 @@
+C:\Users\alumno\Desktop\Ejercicio8Memoria\bin\Debug\net8.0\Ejercicio8Memoria.exe
+C:\Users\alumno\Desktop\Ejercicio8Memoria\bin\Debug\net8.0\Ejercicio8Memoria.deps.json
+C:\Users\alumno\Desktop\Ejercicio8Memoria\bin\Debug\net8.0\Ejercicio8Memoria.runtimeconfig.json
+C:\Users\alumno\Desktop\Ejercicio8Memoria\bin\Debug\net8.0\Ejercicio8Memoria.dll
+C:\Users\alumno\Desktop\Ejercicio8Memoria\bin\Debug\net8.0\Ejercicio8Memoria.pdb
+C:\Users\alumno\Desktop\Ejercicio8Memoria\obj\Debug\net8.0\Ejercicio8Memoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Desktop\Ejercicio8Memoria\obj\Debug\net8.0\Ejercicio8Memoria.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\Ejercicio8Memoria\obj\Debug\net8.0\Ejercicio8Memoria.AssemblyInfo.cs
+C:\Users\alumno\Desktop\Ejercicio8Memoria\obj\Debug\net8.0\Ejercicio8Memoria.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Ejercicio8Memoria\obj\Debug\net8.0\Ejercicio8Memoria.dll
+C:\Users\alumno\Desktop\Ejercicio8Memoria\obj\Debug\net8.0\refint\Ejercicio8Memoria.dll
+C:\Users\alumno\Desktop\Ejercicio8Memoria\obj\Debug\net8.0\Ejercicio8Memoria.pdb
+C:\Users\alumno\Desktop\Ejercicio8Memoria\obj\Debug\net8.0\Ejercicio8Memoria.genruntimeconfig.cache
+C:\Users\alumno\Desktop\Ejercicio8Memoria\obj\Debug\net8.0\ref\Ejercicio8Memoria.dll
